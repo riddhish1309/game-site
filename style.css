@@ -1,0 +1,7 @@
+.abc{
+    
+    transition:transform (2s);
+}
+.abc:hover{
+    transform: scale(1.1);
+}
